@@ -8,7 +8,7 @@
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "ask-custom-myradio-default"
+                "uri": "alexa-radiator"
               }
             }
           }

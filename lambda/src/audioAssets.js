@@ -6,8 +6,8 @@ var audioData = {
     cardContent: "Visit The Radiator at https://www.bigheavyworld.com/105-the-radiator/",
     url: 'http://stream.theradiator.org/womm-lp_fm_256',
     image: {
-        largeImageUrl: 'https://s3-eu-west-1.amazonaws.com/alexa.maxi80.com/assets/alexa-artwork-1200.png',
-        smallImageUrl: 'https://s3-eu-west-1.amazonaws.com/alexa.maxi80.com/assets/alexa-artwork-720.png'
+        largeImageUrl: 'https://www.bigheavyworld.com/wp-content/uploads/2016/02/Radiator-Logo.png?resize=1200%2C1200&ssl=1',
+        smallImageUrl: 'https://www.bigheavyworld.com/wp-content/uploads/2016/02/Radiator-Logo.png?resize=720%2C720&ssl=1'
     }
 };
 

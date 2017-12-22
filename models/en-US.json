@@ -1,0 +1,49 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "the radiator",
+      "intents": [
+        {
+          "name": "PlayAudio",
+          "samples": [
+            "play",
+            "start",
+            "play the radiator",
+            "play the radiator please",
+            "start the radiator",
+            "start the radiator please"
+          ]
+        },
+        {
+          "name": "AMAZON.PauseIntent"
+        },
+        {
+          "name": "AMAZON.ResumeIntent"
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "help me please",
+            "help please",
+            "what should i do",
+            "what's next",
+            "how can I listen to the radiator",
+            "tell me how to play",
+            "tell me how to stop",
+            "tell me how to resume",
+            "how to stop"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent"
+        },
+        {
+          "name": "AMAZON.CancelIntent"
+        },
+        {
+          "name": "AMAZON.StartOverIntent"
+        }
+      ]
+    }
+  }
+}

@@ -16,8 +16,8 @@
           ],
           "name": "The Radiator",
           "description": "Listen to 105.9FM WOMM The Radiator.\n\nTo start, just say \"Alexa, launch The Radiator\" or \"Alexa, play The Radiator\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
-          "smallIconUri": "https://www.bigheavyworld.com/wp-content/uploads/2016/02/Radiator-Logo.png?resize=108%2C108&ssl=1",
-          "largeIconUri": "https://www.bigheavyworld.com/wp-content/uploads/2016/02/Radiator-Logo.png?resize=512%2C512&ssl=1"
+          "smallIconUri": "https://github.com/teledemic/alexa-radiator/raw/master/radio108.png",
+          "largeIconUri": "https://github.com/teledemic/alexa-radiator/raw/master/radio512.png"
         }
       },
       "isAvailableWorldwide": true,
